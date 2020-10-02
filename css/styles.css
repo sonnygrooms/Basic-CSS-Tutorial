@@ -20,7 +20,7 @@ body {
   background-color: lightgrey;
   max-width: 1000px;
   margin: 0 auto;
-  background-image: url("/img/gradient.png");
+  background-image: url("../img/gradient.png");
   background-position: center;
   background-repeat: repeat-y;
 }
